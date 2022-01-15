@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebrar Erdem
 - 👀 I’m interested in Front-End Developing
-- 🌱 I’m currently learning HTML,CSS,React
+- 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ebrarerdem/
 
