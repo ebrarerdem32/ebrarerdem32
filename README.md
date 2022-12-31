@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ebrar Erdem
-- 👀 I’m interested in FullStack Developing
-- 🌱 I’m currently learning Node.js Vue.js React.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Smart Contract Development and Front-End Development
+- 🌱 I’m currently learning React.js,Solidity
 - 📫 How to reach me https://www.linkedin.com/in/ebrarerdem/
 
 <!---
